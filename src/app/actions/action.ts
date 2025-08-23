@@ -10,7 +10,7 @@ export type SignupState = {
 
 export async function registerUser(
   prevState: SignupState,
-  formData: FormData
+  formData: FormData,
 ): Promise<SignupState> {
   try {
     const name = formData.get("name") as string;
