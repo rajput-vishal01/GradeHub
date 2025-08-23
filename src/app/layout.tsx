@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GradeHub",
-  description: "GradeHub:Centralize.Assess.Excel.",
+  title: "DevTrails",
+  description: "DevTrails:Code Your Way Forward",
 };
 
 export default function RootLayout({

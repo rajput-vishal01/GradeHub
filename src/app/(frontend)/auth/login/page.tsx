@@ -41,7 +41,7 @@ const Login = () => {
             </h1>
             <p className="text-gray-300 text-base sm:text-lg">
               Sign in to{" "}
-              <span className="text-purple-400 font-semibold">GradeHub</span>
+              <span className="text-purple-400 font-semibold">DevTrails</span>
             </p>
           </div>
 
